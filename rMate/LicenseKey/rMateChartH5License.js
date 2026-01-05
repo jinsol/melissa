@@ -3,9 +3,9 @@
 //
 // Product Name : rMate Chart for HTML5 v7.0
 // License Type : Enterprise Trial License
-// Product No : 73BA-2336-6758-7EDG
-// Authenticated server Info : undefined
-// Expiration date : 2025/10/31
+// Product No : 03DC-ACD4-4CA3-0F0O
+// Authenticated Server Info : undefined
+// Expiration Date : 2026/04/01
 //
-var rMateChartH5License = "8febce6ff096e5e8ddaf9e43e2754727b061abab9f7e0b080abd77f3b2de43f7:3300330b3648443a4f4220504c2056473a4432452e37302d2038503556373a36432d35362d3345334e322d2d37412e4230332d37453a564c41204c312030452f4c313a31742f203543323a303232303a32453520302a373a324839";
+var rMateChartH5License = "d9d656d2ed0a4da493b294f72742495d887b4f80eb60a8dd88b0f0bf54200c12:6300640b3448443a4f4220504c20564f3a3032462e30302d2033504156433a34432d35342d4445434e412d2d37432e4430332d30453a564c41204c312030452f4c343a30742f203643323a303232303a32453520312a323a334830";
 // -----------------------------------------------------------------------------
